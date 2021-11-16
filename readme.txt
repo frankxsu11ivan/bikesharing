@@ -21,6 +21,7 @@ Story Questions:
 
 Graphic Results:
 1. Through the graphics the bikes were used the longest in the August data at 5:00pm. 
+https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/August%20Peak%20Hours%20%4017hours%20224566.png
 2. Through the graphic the duration bikes are checked out peak hours is seven minutes and long tapers  (at the elbow ) approximately at 32 minutes.
 3. Through the pie chart graphic the short term users are 443,865 rides in August.
 4. Through the weekday heat map graphic 8am and 5 pm monday through friday are the maximum times bikes are used.
