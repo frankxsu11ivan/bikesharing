@@ -34,7 +34,7 @@ https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/Customers%2044
 4. Through the weekday heat map graphic 8am and 5 pm Monday through Friday are the maximum times bikes are used.
 https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/TripsByWeekdayPerHour.png
 
-5. Through Untitled 1 and Untitled 2 the users are broken out. Males are the most frequent users with the August NY 2019 data. I like the untitled as the heat map reminded me of abstract artwork.
+5. Through Untitled 1 and Untitled 2 the users are broken out. Males are the most frequent users with the August NY 2019 data. I like the "untitled" title as the heat map reminded me of abstract artwork.
 https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/Untitled1.png
 https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/Untitled2.png
 
