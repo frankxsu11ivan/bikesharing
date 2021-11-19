@@ -4,6 +4,7 @@ Overview of the Mod 14 Analysis
 Deliverable 1 
 
 Using pandas to change the tripduration column from integer to date time datat set.
+
 the dataFrame is exported as a new file
 From the data set, Visualizations were created.
 
