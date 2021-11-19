@@ -16,7 +16,12 @@ Deliverable 2
 New York City Citi Bike Analysis
 The purpose of the analysis is to use data from New York Bike program and mirror it to Iowa.
 To complete the analysis panadas library were used to clean up NY data. The inference of behavior cycles for 
-New York's data is the visualization used for Tableau. The data pulled is for August 20219
+New York's data is the visualization used for Tableau. The data pulled is for August 20219.
+https://public.tableau.com/app/profile/francis.x.sullivan/viz/Mod14D2_5/TripsByGenderByWeekday?publish=yes
+https://public.tableau.com/app/profile/francis.x.sullivan/viz/Mod14D2_4/TripsbyGender?publish=yes
+https://public.tableau.com/app/profile/francis.x.sullivan/viz/Mod14D2_3/Starttime?publish=yes
+https://public.tableau.com/app/profile/francis.x.sullivan/viz/Mod14D2_2/Checkouttime2?publish=yes
+https://public.tableau.com/app/profile/francis.x.sullivan/viz/Mod14D2_1/Checkouttime?publish=yes
 
 Story Questions:
 1. What hour are bikes used the most?
