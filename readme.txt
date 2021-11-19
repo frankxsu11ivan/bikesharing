@@ -4,8 +4,12 @@ Overview of the Mod 14 Analysis
 Deliverable 1 
 
 Using pandas to change the tripduration column from integer to date time datat set.
-
+https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/D1%20DF.png
+https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/D1%20convert%20trip.png
+https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/D1%20Dftype.png
 the dataFrame is exported as a new file
+https://github.com/frankxsu11ivan/bikesharing/blob/main/Resources/D1%20435M%20export.png
+
 From the data set, Visualizations were created.
 
 Deliverable 2
